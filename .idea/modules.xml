@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-2.0-Samples.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-2.0-Samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_preface/ch1.helloword/ch1.helloworld.iml" filepath="$PROJECT_DIR$/1_preface/ch1.helloword/ch1.helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_env/ch2.aop/ch2.aop.iml" filepath="$PROJECT_DIR$/2_env/ch2.aop/ch2.aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_mvc/ch3.mvc/ch3.mvc.iml" filepath="$PROJECT_DIR$/3_mvc/ch3.mvc/ch3.mvc.iml" />
+    </modules>
+  </component>
+</project>
